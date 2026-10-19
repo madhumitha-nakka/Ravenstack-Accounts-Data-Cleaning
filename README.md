@@ -1,4 +1,3 @@
-# Ravenstack-Accounts-Data-Cleaning
 
 # Ravenstack Accounts – Data Cleaning Project
 
